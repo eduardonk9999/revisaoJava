@@ -4,7 +4,7 @@ package org.example;
 
 // Classe é um molde para construir um objeto
 public class ninja {
-    String nome;
+    private String nome;
     String aldeia;
     int idade;
 
@@ -15,4 +15,15 @@ public class ninja {
         System.out.println("Taquei uma Kunai");
     }
 
+    // Encapsulamento: Uma forma de blindar nossos objetos, para não usar eles de forma errada.
+    // Por isso usamos o get e setrs
+
+
+    public String getNome() {
+        return nome;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
 }
