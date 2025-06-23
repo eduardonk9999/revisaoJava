@@ -26,3 +26,5 @@ Uma forma rápida e imutável de representar dados. Ideal pra criar classes simp
 valores, sem precisar escrever getters, 
 equals, hashCode ou toString na mão. Menos código, mais clareza.
 
+### Atalhos
+psvm
