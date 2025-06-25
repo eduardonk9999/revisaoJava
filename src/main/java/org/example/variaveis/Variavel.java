@@ -15,7 +15,16 @@ public class Main {
        double altura = 1.65;
        char inicial = 'N'; 
        boolean vivoOuMorto = false;
-       Long saldoBancario = 99999L; // Valores GIGANTES 
+       Long saldoBancario = 99999L; // Valores GIGANTES
+
+
+        // Dados Não Primitivos Abordados
+        // Strings: Texto e manipulação de cadeias de caracteres.
+        // Arrays: Estruturas para armazenar múltiplos valores em uma única variável.
+        // Objetos: Instâncias de classes que encapsulam dados e comportamentos.
+
+        
+ 
 
     }
 }
