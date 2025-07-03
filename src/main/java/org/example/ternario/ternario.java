@@ -5,6 +5,7 @@ public class Main() {
         short numeroDeMissoes = 11;
 
         String nivel = (numeroDeMissoes >= 10) ? "Esse ninja pode" : "Esse ninja não pode";
+        //
 
     }
 }
